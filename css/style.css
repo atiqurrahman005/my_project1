@@ -1,0 +1,49 @@
+.headfooter{
+	min-height: 50px;
+	background-color: teal;
+}
+.siteheader{
+	color: black;
+	text-align: center;
+	font-size: 38px;
+	text-decoration-style: bold;
+	
+}
+.header{
+	color: white;
+	background-color: red;
+	font-size: 32px;
+	text-align: center;
+	text-decoration: bold;
+}
+.peragraph{
+	font-size: 30px;
+
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	height: 600px;
+	width: 65%;
+	background-color: #e6e6e6;
+	float: left;
+
+}
+.contact{
+	height: 600px;
+	width: 34.8%;
+	background-color: white;
+	float: right;
+}
+.footer{
+	height: 40px;
+	background-color: teal;
+	text-align: center;
+	color: white;
+	font-size: 26px;
+}
+.footer2{
+	background-color: powderblue;
+	height: 200px;
+}
